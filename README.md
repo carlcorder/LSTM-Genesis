@@ -1,6 +1,6 @@
 # LSTM-Genesis
 
-# [![ml5js](https://ml5js.org/img/ml5.png)](https://ml5js.org/) + [![p5js](https://p5js.org/assets/img/p5js.svg)](https://p5js.org/)
+[![ml5js](https://ml5js.org/img/ml5.png)](https://ml5js.org/) + [![p5js](https://p5js.org/assets/img/p5js.svg)](https://p5js.org/)
 
 A text generating Recurrent Neural Network trained on the first book of the Bible: Genesis.
 
