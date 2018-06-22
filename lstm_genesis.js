@@ -1,5 +1,3 @@
-// Copyright (c) 2018 ml5
-//
 /* ===
 LSTM Text Generator with ml5.js & p5.js
 This uses a pre-trained model on the Book of Genesis.
